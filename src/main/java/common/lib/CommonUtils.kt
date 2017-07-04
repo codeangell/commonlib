@@ -31,7 +31,7 @@ import java.text.DecimalFormat
 object CommonUtils {
     /**
      * 判断网络可不可用
-
+     *
      * @return true为可用
      */
     fun isNetworkAvailable(context: Context): Boolean {
